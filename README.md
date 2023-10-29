@@ -1,7 +1,7 @@
 # EXP08 -  Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 
-#### NAME: Aashima Nazreen Sayeed S
-#### REG NO: 212221240002
+#### NAME: SWATHIKA G
+#### REG NO: 212221230113
 
 ## AIM:
 To solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
